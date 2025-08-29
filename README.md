@@ -6,6 +6,8 @@ To install dependencies:
 bun install
 ```
 
+Add your own OpenAI API Key in server/.env
+
 To run client and server concurrently:
 
 ```bash
