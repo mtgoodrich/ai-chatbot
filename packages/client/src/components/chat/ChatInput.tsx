@@ -39,7 +39,7 @@ const ChatInput = ({ onSubmit }: Props) => {
                     validate: (data) => data.trim().length > 0,
                 })}
                 className="w-full border-0 focus:outline-0 resize-none"
-                placeholder="Ask anything"
+                placeholder="Ask me about Belmont Park"
                 maxLength={1000}
             />
             <Button
